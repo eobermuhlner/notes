@@ -11,3 +11,8 @@ Random notes about programming and other things
 5. badges from the above or shields.io
 6. setup accout on maven central http://central.sonatype.org/pages/ossrh-guide.html 
 7. publish on maven central https://oss.sonatype.org
+
+## Unicode in github markdown
+
+π
+θ
