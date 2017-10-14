@@ -55,3 +55,19 @@ Random notes about programming and other things
 :jp:
 
 
+## Experiments with deep learning frameworks
+
+- python
+  - good only book: https://jakevdp.github.io/PythonDataScienceHandbook/
+
+- tensorflow
+  - well documented, many examples
+  - quite low level - can do anything with tensors
+    - best low level examples: https://github.com/Hvass-Labs/TensorFlow-Tutorials
+  - has a high-level API for layers
+
+- tflayer
+  - provides high level API for tensorflow
+
+- Keras
+  - high level API (default backend is tensorflow, others are possible
